@@ -1,20 +1,22 @@
+const data = require('../data.json')
 
-
-module.exports.getRandomUser = () => {
+module.exports.getRandomUser = (req, res) => {
     
 }
-module.exports.getAllUser = () => {
+module.exports.getAllUser = (req, res) => {
+    console.log(data)
+    res.send(data)
 
 }
-module.exports.postUser = () => {
+module.exports.postUser = (req, res) => {
 
 }
-module.exports.updateUser = () => {
+module.exports.updateUser = (req, res) => {
 
 }
-module.exports.getBulkUpdate = () => {
+module.exports.bulkUpdateUser = (req, res) => {
 
 }
-module.exports.deleteUser = () => {
+module.exports.deleteUser = (req, res) => {
 
 }

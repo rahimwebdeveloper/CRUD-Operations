@@ -4,13 +4,13 @@ const userController = require('../controller/user.controller')
 
 
 router.route('/all')
-    .get()
+    .get(userController.getAllUser)
 
 router.route('/random')
-    .get()
+    .get(userController.getRandomUser)
 
 router.route('/save')
-    .post()
+    .post(userController.postUser)
 
 router.route('/update')
     .patch()
