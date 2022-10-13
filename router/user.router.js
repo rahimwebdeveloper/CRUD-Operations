@@ -13,12 +13,12 @@ router.route('/save')
     .post(userController.postUser)
 
 router.route('/update')
-    .patch()
+    .patch(userController.updateUser)
 
 router.route('/bulk-update')
-    .patch()
+    .patch(userController.bulkUpdateUser)
 
-router.route('/delete')
-    .delete()
+router.route('/delete/:id')
+    .delete(userController.deleteUser)
 
 module.exports = router;
