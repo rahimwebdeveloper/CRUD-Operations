@@ -1,72 +1,82 @@
 [
     {
-        "id": 1,
+        "id": "1",
+        "gender": "female",
         "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "address": "Gwenborough",
+        "contact": "1-770-736-8031 x56442",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 2,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "2",
+        "gender": "female",
+        "name": "Mohasin",
+        "address": "nithpur porsha",
+        "contact": "010-692-6593 x09125",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 3,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "3",
+        "gender": "female",
+        "name": "Clementine Bauch",
+        "address": "nithpur porsha",
+        "contact": "1-463-123-4447",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 4,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "4",
+        "gender": "female",
+        "name": "Patricia Lebsack",
+        "address": "nithpur porsha",
+        "contact": "493-170-9623 x156",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 5,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "5",
+        "gender": "female",
+        "name": "Chelsey Dietrich",
+        "address": "nithpur porsha",
+        "contact": "(254)954-1289",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 6,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "6",
+        "gender": "female",
+        "name": "Mrs. Dennis Schulist",
+        "address": "South Christy",
+        "contact": "1-477-935-8478 x6430",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 7,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "7",
+        "gender": "female",
+        "name": "Kurtis Weissnat",
+        "address": "Howemouth",
+        "contact": "210.067.6132",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 8,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "8",
+        "gender": "female",
+        "name": "Nicholas Runolfsdottir V",
+        "address": "Aliyaview",
+        "contact": "586.493.6943 x140",
+        "photoUrl": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 9,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "9",
+        "gender": "female",
+        "name": "Glenna Reichert",
+        "address": "Bartholomebury",
+        "phone": "(775)976-6794 x41206",
+        "photo-url": "https://i.ibb.co/qy7yBk7/customer-2.png"
     },
     {
-        "id": 10,
-        "name": "Rahim",
-        "Contact": "01827251661",
-        "adderss" : "Nithpur Porsha Naogoan",
-        "PhotoUrl" : "https://i.ibb.co/qy7yBk7/customer-2.png"
+        "id": "10",
+        "gender": "female",
+        "name": "Clementina DuBuque",
+        "address": "Lebsackbury",
+        "contact": "024-648-3804",
+        "photo-url": "https://i.ibb.co/qy7yBk7/customer-2.png"
     }
 ]
